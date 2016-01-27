@@ -1,0 +1,28 @@
+name: profitventures
+favicon: null
+layout_spectrum: 0.8934425797779113
+typography_spectrum: 0.8888044715858996
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.18086895043961704
+  lightness: 0.14695690805092454
+  saturation: 0.12413785397075117
+  rhythmicContrast: 0.2730226940475404
+purpose: []
